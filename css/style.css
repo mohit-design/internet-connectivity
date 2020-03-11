@@ -1,6 +1,13 @@
 /*------- Font Family Starts -------*/
 
-@font-face { font-family: "Barlow-Semibold"; src: url("../fonts/Barlow-Semibold.otf"); }
+@font-face {
+    font-family: 'Barlow-Semibold';
+    src: url('barlow-semibold-webfont.woff2') format('woff2'),
+         url('barlow-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 
 /*------- Font Family Ends -------*/
 
