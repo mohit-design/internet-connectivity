@@ -1,0 +1,34 @@
+/*------- Font Family Starts -------*/
+
+@font-face { font-family: "Barlow-Semibold"; src: url("../fonts/Barlow-Semibold.otf"); }
+
+/*------- Font Family Ends -------*/
+
+/*------- Internet Activity Section Starts -------*/
+
+#bgColor {
+	display: none;
+}
+#bgColor.active {
+	background-color: #000;
+	bottom: 0;
+	display: block;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 100%;
+}
+#online-offline {
+	color: #fff;
+	font: 4rem/1.42857143 "Barlow-Semibold";
+	margin: 0;
+	text-transform: uppercase;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	z-index: 1;
+}
+/*------- Internet Activity Section Ends -------*/

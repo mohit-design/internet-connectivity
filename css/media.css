@@ -1,0 +1,29 @@
+@media only screen and (max-width: 767px) {
+
+	/*------- Internet Activity Section Starts -------*/
+
+#online-offline { font-size: 2.4rem; text-align: center; width: 100%; }
+
+	/*------- Internet Activity Section Ends -------*/
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+	/*------- Internet Activity Section Starts -------*/
+
+#online-offline { font-size: 3rem; text-align: center; width: 100%; }
+
+	/*------- Internet Activity Section Ends -------*/
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+	/*------- Internet Activity Section Starts -------*/
+
+#online-offline { font-size: 3.6rem; text-align: center; width: 100%; }
+
+	/*------- Internet Activity Section Ends -------*/
+
+}
